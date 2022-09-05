@@ -1,1 +1,1 @@
-# Global and National COVID Data : Analysis and Insights
+# Global/National COVID Data Analysis and Insights
